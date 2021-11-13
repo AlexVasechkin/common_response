@@ -2,7 +2,7 @@
     "name": "commonhelpers/common-response",
     "description": "PHP class Response as a result of other classes",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "authors": [
         {
