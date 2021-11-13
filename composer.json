@@ -1,0 +1,22 @@
+{
+    "name": "commonhelpers/common-response",
+    "description": "PHP class Response as a result of other classes",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cosmo Engineer",
+            "email": "v.a-v@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "CommonHelpers": "src"
+        }
+    }
+}
