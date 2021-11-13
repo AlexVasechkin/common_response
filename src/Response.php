@@ -37,6 +37,11 @@ class Response
         return $this;
     }
 
+    public function getResult(): bool
+    {
+        return $this->result;
+    }
+
     public function isSuccess(): bool
     {
         return $this->result;
