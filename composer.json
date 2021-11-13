@@ -2,7 +2,7 @@
     "name": "commonhelpers/common-response",
     "description": "PHP class Response as a result of other classes",
     "type": "library",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CommonHelpers\\ObjectResponse": "src"
+            "CommonHelpers\\ObjectResponse\\": "src/"
         }
     }
 }
