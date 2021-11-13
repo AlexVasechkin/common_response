@@ -1,6 +1,6 @@
 <?php
 
-namespace CommonHelpers;
+namespace CommonHelpers\ObjectResponse;
 
 class Response
 {

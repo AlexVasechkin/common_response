@@ -7,7 +7,7 @@ Class CommonHelpers\Response should use if you want to get boolean result of the
 
 namespace App;
 
-use CommonHelpers\Response;
+use CommonHelpers\ObjectResponse\Response;
 
 class ApiController
 {
